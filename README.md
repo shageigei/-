@@ -23,4 +23,6 @@ GLPageChange *page = [[GLPageChange alloc] initWithFrame:CGRectMake(0, 100, self
 
 
 
+
+
 ![scrollImage](../轮播图Demo:计时器/scrollImage.gif)
